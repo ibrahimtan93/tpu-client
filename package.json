@@ -4,6 +4,7 @@
   "main": "lib/index.js",
   "author": " <lmvanderzande@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "@matrixai/quic": "^1.2.6",
     "@peculiar/webcrypto": "^1.4.6",
